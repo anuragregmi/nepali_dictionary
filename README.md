@@ -1,5 +1,5 @@
 # Nepali Dictionary
- Refined database of database available [here](http://ltk.org.np/nepalisabdakos/index.php?option=db)
+ Database of Nepali Contemporary Dictionary available [here](http://ltk.org.np/nepalisabdakos/index.php?option=db)
  
 # Getting Used To
 `nepali_dictionary.sqlite3` is the old database, which is available [here](http://ltk.org.np/nepalisabdakos/index.php?option=db),
